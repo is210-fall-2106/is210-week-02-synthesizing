@@ -74,6 +74,7 @@ Other Details
 4. Why aren't you using it already! Go write some Python!
 
 Sources
+
 +--------+---------------+
 | Name   |    Contact    |
 +========+===============+
