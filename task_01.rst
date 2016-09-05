@@ -39,6 +39,28 @@ It's amazing how nice people are in the Python development world. Just as with a
 The Tools
 *********
 
+Python has a ton of excellent tools available for use.
+
+Docutils
+========
+
+A fantastic documentation generator that interprets reStruturedText and turns it into rich documents.
+
+Web Frameworks
+==============
+
+Python has many great web frameworks, only a few of which will be listed here.
+
+Django
+------
+
+One of the world's leading content management systems for the web. To learn more about Django, visit:
+
+https://djangoproject.com/
+
+Pyramid
+-------
+
 *************
 Other Details
 *************
