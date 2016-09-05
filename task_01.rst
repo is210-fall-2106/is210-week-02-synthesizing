@@ -34,7 +34,7 @@ It's amazing how nice people are in the Python development world. Just as with a
 
   * Don't give unnecessary details if they aren't needed
   * Don't start a question with an apology or an announcement that you're going to ask the question.
-    *Just ask the question!*
+   *Just ask the question!*
 
 *********
 The Tools
@@ -72,3 +72,14 @@ Other Details
 2. It has a huge library of available modules.
 3. Pip extends that library even more.
 4. Why aren't you using it already! Go write some Python!
+
+Sources
++--------+---------------+
+| Name   |    Contact    |
++--------+---------------+
+| Me     | me@mysite.com |
++--------+---------------+
+| Myself | myself@me.com |
++--------+---------------+
+| I      | i@mii.com     |
++--------+---------------+
