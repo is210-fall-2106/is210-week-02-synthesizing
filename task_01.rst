@@ -28,12 +28,12 @@ The People
 
 It's amazing how nice people are in the Python development world. Just as with any community, however, it's important to follow certain rules of decorum.
 
-*Be courteous to others
-*Always read the manual before asking questions
-*Be succinct in your questions
-  *Don't give unnecessary details if they aren't needed
-  *Don't start a question with an apology or an announcement that you're going to ask the question.
-  *Just ask the question!*
+* Be courteous to others
+* Always read the manual before asking questions
+* Be succinct in your questions
+  * Don't give unnecessary details if they aren't needed
+  * Don't start a question with an apology or an announcement that you're going to ask the question.
+    *Just ask the question!*
 
 *********
 The Tools
