@@ -31,6 +31,7 @@ It's amazing how nice people are in the Python development world. Just as with a
 * Be courteous to others
 * Always read the manual before asking questions
 * Be succinct in your questions
+
   * Don't give unnecessary details if they aren't needed
   * Don't start a question with an apology or an announcement that you're going to ask the question.
     *Just ask the question!*
@@ -61,6 +62,13 @@ https://djangoproject.com/
 Pyramid
 -------
 
+A relative newcomer to the web framework work. Pyramid began as part of the Pylons project and has an interesting (though challenging) templating language.
+
 *************
 Other Details
 *************
+
+1. Python can be used for almost any task you can think of.
+2. It has a huge library of available modules.
+3. Pip extends that library even more.
+4. Why aren't you using it already! Go write some Python!
