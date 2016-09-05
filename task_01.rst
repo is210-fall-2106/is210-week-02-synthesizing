@@ -76,7 +76,7 @@ Other Details
 Sources
 +--------+---------------+
 | Name   |    Contact    |
-+--------+---------------+
++========+===============+
 | Me     | me@mysite.com |
 +--------+---------------+
 | Myself | myself@me.com |
