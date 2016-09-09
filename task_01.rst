@@ -103,8 +103,8 @@ Sources
 | I        | i@mii.com               |
 +----------+-------------------------+
 
+.. note::
 
-Note
-This is just a little taste of how great Python can be!
+	This is just a little taste of how great Python can be!
 
 
