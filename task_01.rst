@@ -84,11 +84,11 @@ Other Details
 .. table:: Sources
 
     ======= ===============
-    Name   Contact
+    Name    Contact
     ======= ===============
-    Me     me@mysite.com
-    Myself myself@me.com
-    I      i@mii.com
+    Me      me@mysite.com
+    Myself  myself@me.com
+    I       i@mii.com
     ======= ===============
 
 .. NOTE:: This is just a little taste of how great Python can be!
