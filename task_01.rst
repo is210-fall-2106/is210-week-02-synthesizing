@@ -2,7 +2,7 @@
 Why I love Python
 *****************
 
-Why I love **Python**, a language worth knowing.
+Why I Love **Python**, a language worth knowing.
 
 Running It
 ##########
@@ -91,11 +91,11 @@ Other Details
 
 
 
-Sources
+.. table:: Sources
 
 +----------+-------------------------+
 | Name     | Contact                 |
-+----------+-------------------------+
++==========+=========================+
 | Me       | me@mysite.com           |
 +----------+-------------------------+
 | Myself   | myself@me.com           |
