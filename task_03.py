@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""A docstring"""g
+"""A docstring"""
 
 CHARLIE = "Chocolate Factory" 
 VIOLET = "Gray"
