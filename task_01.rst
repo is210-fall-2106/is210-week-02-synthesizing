@@ -82,16 +82,13 @@ Other Details
 #############
 
 1. Python can be used for almost any task you can think of.
-
 2. It has a huge library of available modules.
-
 3. Pip extends that library even more.
-
 4. Why aren't you using it already! Go write some Python!
 
 
 
-.. table:: Sources
+	Sources 
 
 +----------+-------------------------+
 | Name     | Contact                 |
